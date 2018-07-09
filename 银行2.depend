@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1529126991 source:d:\program state\银行2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+	"open_account.h"
+	"change_psd.h"
+	"transfer_account.h"
+	"inquire.h"
+	"deposit.h"
+	"withdrawal.h"
+	"close_account.h"
+
+1529127098 d:\program state\银行2\open_account.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1529126847 d:\program state\银行2\change_psd.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1529126847 d:\program state\银行2\transfer_account.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1529126847 d:\program state\银行2\inquire.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1529126847 d:\program state\银行2\deposit.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1529126991 d:\program state\银行2\withdrawal.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1529126991 d:\program state\银行2\close_account.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1531136034 source:d:\program state\银行\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+	"open_account.h"
+	"change_psd.h"
+	"transfer_account.h"
+	"inquire.h"
+	"deposit.h"
+	"withdrawal.h"
+	"close_account.h"
+	"test.h"
+
+1531136343 d:\program state\银行\open_account.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1530716107 d:\program state\银行\change_psd.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1531134846 d:\program state\银行\transfer_account.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1531135121 d:\program state\银行\inquire.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1531134739 d:\program state\银行\deposit.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1531134846 d:\program state\银行\withdrawal.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1531134846 d:\program state\银行\close_account.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
+1531136181 d:\program state\银行\test.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<fstream>
+
